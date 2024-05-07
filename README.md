@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi there 👋<img src="https://github.com/abdullahx124/gif-assets/blob/main/hand_waving.gif" width=30px alt="👋"></h1>
+<h1 align="center"> Hi there 👋<img src="https://github.com/abdullahx124/gif-assets/blob/main/hand_waving.gif" width=30px alt="👋"></h1>
 
 <p align="center">
     <b>Welcome to my Github profile!</b><br><br>
