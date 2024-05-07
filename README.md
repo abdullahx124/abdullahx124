@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi there 👋 <img src="https://github.com/abdullahx124/gif-assets/blob/main/hand_waving.gif" width=30px alt="👋"></h1>
+<h1 align="center">Hi there 👋<img src="https://github.com/abdullahx124/gif-assets/blob/main/hand_waving.gif" width=30px alt="👋"></h1>
 
 <p align="center">
     <b>Welcome to my Github profile!</b><br><br>
@@ -23,6 +23,7 @@ Here are some ideas to get you started:
         I'm Abdullah.<br>
         Currently learning to walk in Machine Learning and Deep Learning without falling on my bottom.<br>
         Open to collaborating on interesting and innovative projects in Machine Learning and relevant fields.<br>
+        || Artificial Intelligence Enthusiast || NLP || Computer Vision || Data Science || Research & Development || COMSIAN'23 🎓|| AIEF Winner 🎖.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/abdullah-577bb3218">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="linkedin">
