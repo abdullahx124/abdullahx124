@@ -1,6 +1,7 @@
-### Hi there 👋
 
 <!--
+### Hi there 👋
+
 **abdullahx124/abdullahx124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,12 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hello There! <img src="https://github.com/abdullahx124/gif-assets/blob/main/hand_waving.gif" width=30px alt="👋"></h1>
+<h1 align="center">Hi there 👋! <img src="https://github.com/abdullahx124/gif-assets/blob/main/hand_waving.gif" width=30px alt="👋"></h1>
 
 <p align="center">
     <b>Welcome to my Github profile!</b><br><br>
     <i>
-        I'm Muhammad Huzaifa Tariq.<br>
+        I'm Abdullah.<br>
         Currently learning to walk in Machine Learning and Deep Learning without falling on my bottom.<br>
         Open to collaborating on interesting and innovative projects in Machine Learning and relevant fields.<br>
     </i><br>
